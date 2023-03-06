@@ -1,6 +1,6 @@
 import os
 import time
-import cv
+import cv2 as cv
 import imutils
 import shutil
 import img2pdf
